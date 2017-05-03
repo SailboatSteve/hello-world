@@ -1,2 +1,3 @@
 # hello-world
-General info
+General info about me.
+I am a brand new old-timer to coding. I got my first computer, A Commodore 64, when I as 12 and learned Basic with it. As a high-school kid, I got a modem for my state-of-the-art IBM Clone x86 (one that still required the telephone handset be connected to it, haha) and played around with some BB's. As the internet developed, I played around with scripting some in IRC, building bots and did a little bit of light hacking, pretty easy at the time because no one passworded their computers yet and open shares were everywhere. And... that's the end of the story until now, 20 years later, when I've decided to try C# and/or Java in order to hopefully create solutions for what I believe are gaps in various areas. Wish me luck!
